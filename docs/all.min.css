@@ -225,7 +225,7 @@ img {
 }
 @font-face {
 	font-family:'RuiHeiXiTi';
-	src:url('fonts/RuiHeiXiTi.otf') format('truetype');
+	src:url('docs/fonts/RuiHeiXiTi.otf') format('truetype');
 	font-weight:bold;
 	font-style:normal
 }
@@ -1010,7 +1010,7 @@ body,button {
 	background-color:#febebe
 }
 .page-54 {
-	background:#d3d2d0 url(img/319280_bg.jpg) repeat
+	background:#d3d2d0 url(docs/img/319280_bg.jpg) repeat
 }
 .page-54 .center-img {
 	background-image:url(img/319280.jpg);
